@@ -1,11 +1,11 @@
-#Design and implementation of an embedded star tracker
+# Design and implementation of an embedded star tracker
 
-##Overview
+## Overview
 
 This project has been developed in order to support a camera during long exposure photos to stars.
 The aim is to use a Raspberry pi 3 as a controller to pilot a stepper motor which holds the camera stationary relatively to the sky. Another function of the Raspberry is to remotely control the camera in order to shoot multiple photos without using the camera buttons.
 
-##Quickstart
+## Quickstart
 
 *Setting up the Raspberry.*
 
